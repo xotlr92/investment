@@ -1,0 +1,16 @@
+/helm/airflow/.helmignore
+/helm/airflow/Chart.lock
+/helm/airflow/Chart.yaml
+/helm/airflow/INSTALL
+/helm/airflow/LICENSE
+/helm/airflow/NOTICE
+/helm/airflow/README.md
+/helm/airflow/RELEASE_NOTES.rst
+/helm/airflow/reproducible_build.yaml
+/helm/airflow/values.schema.json
+/helm/airflow/values_schema.schema.json
+/helm/airflow/templates/
+/helm/airflow/newsfragments/
+/helm/airflow/files/
+/helm/airflow/dockerfiles/
+/helm/airflow/charts/
